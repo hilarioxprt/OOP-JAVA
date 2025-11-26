@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HumanUserStrategy
+comment0.text=\n\ YourStrategy\ class\ stores\ provided\ an\ automatic\ or\ computer\ HumanStrategy.\n\ \n\ It\ challenges\ the\ game\ in\ a\ using\ an\ atomatic\ strategy\ that\ you\n\ defined\ yourself\n\ \n\ this\ is\ the\ completed\ bversion\ of\ this\ code\ .\n\ \n\ @author\ Hilario\ \ Mavungo\n\ @version\ 1\n
+comment1.params=
+comment1.target=HumanUserStrategy()
+comment1.text=\n\ HumanUserStrategy\ constructor\ to\ reinitialize\ Scanner\ \n\ after\ it\ has\ been\ excluded\ from\ serialization.\n
+comment2.params=
+comment2.target=int\ nextMove()
+comment2.text=\n\ method\ to\ define\ HumanStrategy\ completley\n
+comment3.params=
+comment3.target=void\ reinitializeScanner()
+comment3.text=\n\ Reinitializes\ the\ Scanner\ object\ for\ standard\ input.\n\ This\ is\ useful\ after\ loading\ a\ saved\ game\ to\ restore\ input\ capability.\n
+numComments=4

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Represents\ a\ player\ in\ the\ Nim\ game,\ either\ human\ or\ computer.\n\ Supports\ assigning\ a\ strategy\ for\ computer-controlled\ moves.\n
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment1.text=\n\ Constructor\ for\ a\ human\ player\ (no\ strategy).\n\n\ @param\ name\ the\ name\ of\ the\ player\n
+comment2.params=name\ strategy
+comment2.target=Player(java.lang.String,\ MoveStrategy)
+comment2.text=\n\ Constructor\ for\ a\ computer\ player\ with\ a\ defined\ strategy.\n\n\ @param\ name\ the\ name\ of\ the\ player\n\ @param\ strategy\ the\ strategy\ used\ to\ make\ moves\n
+comment3.params=currentPileSize
+comment3.target=int\ getMove(int)
+comment3.text=\n\ Returns\ the\ next\ move\ from\ this\ player.\n\ For\ a\ computer\ player,\ this\ uses\ the\ assigned\ strategy.\n\n\ @param\ currentPileSize\ the\ current\ number\ of\ marbles\ in\ the\ pile\n\ @return\ the\ number\ of\ marbles\ to\ remove\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\n\ gets\ the\ palyer\ name\n
+comment5.params=
+comment5.target=MoveStrategy\ getStrategy()
+comment5.text=\n\ gets\ the\ move\ strategy\n
+comment6.params=strategy
+comment6.target=void\ setStrategy(MoveStrategy)
+comment6.text=\n\ sets\ the\ player\ startegy\n
+numComments=7

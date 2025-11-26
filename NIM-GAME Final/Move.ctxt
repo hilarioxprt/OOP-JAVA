@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\n\ Represents\ a\ single\ move\ in\ the\ Nim\ game.\n\ Stores\ how\ many\ marbles\ were\ removed\ and\ whether\ the\ move\ was\ made\ by\ a\ human.\n\ Useful\ for\ undo\ functionality\ and\ game\ history\ tracking.\n\n\ @author\ (Hilario\ Mavungo)\n\ @version\ (a\ version\ 1)\n
+comment1.params=marblesRemoved\ wasHuman
+comment1.target=Move(int,\ boolean)
+comment1.text=\n\ Constructs\ a\ Move\ object\ with\ the\ given\ number\ of\ marbles\ removed\n\ and\ the\ player\ type\ (human\ or\ computer).\n\n\ @param\ marblesRemoved\ the\ number\ of\ marbles\ taken\n\ @param\ wasHuman\ true\ if\ the\ move\ was\ by\ the\ human\ player\n
+comment2.params=
+comment2.target=int\ getMarblesRemoved()
+comment2.text=\n\ Returns\ the\ number\ of\ marbles\ removed\ in\ this\ move.\n\n\ @return\ number\ of\ marbles\ removed\n
+comment3.params=
+comment3.target=boolean\ wasHuman()
+comment3.text=\n\ Returns\ whether\ the\ move\ was\ made\ by\ the\ human\ player.\n\n\ @return\ true\ if\ the\ move\ was\ by\ a\ human,\ false\ if\ by\ the\ computer\n
+numComments=4

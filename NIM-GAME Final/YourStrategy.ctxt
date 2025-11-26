@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=YourStrategy
+comment0.text=\n\ YourStrategy\ class\ stores\ provided\ an\ automatic\ or\ computer\ Startegy.\n\ \n\ It\ challenges\ the\ game\ in\ a\ using\ an\ atomatic\ strategy\ that\ you\n\ defined\ yourself\n\ \n\ this\ is\ the\ completed\ bversion\ of\ this\ code\ .\n\ \n\ @author\ Hilario\ \ Mavungo\n\ @version\ 0.1\n
+comment1.params=
+comment1.target=YourStrategy()
+comment1.text=\n\ YourStrategy\ constructor\ to\ call\ Random\ strategy\ that\ will\ be\ used\n\ as\ comparison\ basis\ to\ create\ YourStrategy\n
+comment2.params=
+comment2.target=int\ nextMove()
+comment2.text=\n\ nextMove\ defines\ automatic\ moves\ for\ for\ the\ game.\n
+numComments=3

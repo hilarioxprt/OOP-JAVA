@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RandomStrategy
+comment0.text=\n\ A\ move\ strategy\ for\ the\ computer\ that\ makes\ random\ moves\ (1\ or\ 2\ marbles).\n\ Implements\ Serializable\ to\ support\ saving/loading\ game\ state.\n
+comment1.params=
+comment1.target=RandomStrategy()
+comment1.text=\n\ Method\ to\ initiaize\ random\n
+comment2.params=
+comment2.target=int\ nextMove()
+comment2.text=\n\ Returns\ the\ computer's\ next\ move.\n\ Randomly\ chooses\ 1\ or\ 2\ marbles\ to\ remove.\n\n\ @return\ 1\ or\ 2\n
+comment3.params=
+comment3.target=void\ reinitializeRandom()
+comment3.text=\n\ method\ to\ reinitialize\ random\n
+numComments=4

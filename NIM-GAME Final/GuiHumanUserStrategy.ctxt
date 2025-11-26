@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GuiHumanUserStrategy
+comment0.text=\n\ YourStrategy\ class\ stores\ provided\ an\ automatic\ or\ computer\ HumanStrategy.\n\ \n\ It\ challenges\ the\ game\ in\ a\ using\ an\ atomatic\ strategy\ that\ you\n\ defined\ yourself\n\ \n\ this\ is\ the\ completed\ bversion\ of\ this\ code\ .\n\ \n\ @author\ Hilario\ \ Mavungo\n\ @version\ 0.1\n
+comment1.params=
+comment1.target=int\ nextMove()
+comment1.text=\n\ method\ to\ define\ HumanStrategy\ completley\n
+numComments=2
