@@ -1,4 +1,4 @@
-# knowledge demonstarted
+# OOP
 
 A complete, well-structured Java implementation of the classic 1-2 Nim game. This project includes both a text-based interface and a Swing GUI, unit tests, and save/load/undo features. 
 
